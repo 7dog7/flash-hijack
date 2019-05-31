@@ -10,6 +10,11 @@ HTML：
 </div>
 
 参数说明:
-jpg：域下的图片
+
+jpg：域下的图片（为了优先加载crossdomain.xml，否则劫持的接口加载太慢会导致无法劫持）
+
 get：劫持的接口或者页面
+
 post：接收劫持过来的页面为base64传输
+
+文章:https://zhuanlan.zhihu.com/p/67484852
