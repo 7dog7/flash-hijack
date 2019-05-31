@@ -2,6 +2,7 @@
 flash 跳转
 
 使用：
+
 HTML：
 
 &lt;div&gt; 
