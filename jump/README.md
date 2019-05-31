@@ -5,8 +5,8 @@ flash 跳转
 HTML：
 
 <div> 
-<embed src="jump.swf?url=http://www.baidu.com&type=_self" width="970" height="107" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed> 
-</object> 
+<embed src="jump.swf?url=http://www.baidu.com&type=_self" width="970" height="107" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>  
+</div>
 
 参数说明:
 
